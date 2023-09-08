@@ -1,0 +1,35 @@
+[
+    {
+        "header": "GasZone",
+        "description": "This was a GPS which directs the user to the nearest gas station. It also showed the prices as well.",
+        "contributors": [
+            "Alexius Savage",
+            "Anthony Padfield",
+            "John Cecil",
+            "Robert Gomez"
+        ],
+        "url": "https://github.com/Asavage650/GasZone-locator"
+    },
+    {
+        "header": "Gababara",
+        "description": "This is a e-commerce site which sells clothing, jewelery, and electronics.",
+        "contributors": [
+            "Burness Scott III",
+            "Jorge Alcala",
+            "Aaron DeLara",
+            "Robert Gomez"
+        ],
+        "url": "https://github.com/guapjorge/gababara"
+    },
+    {
+        "header": "Opulent Oddities",
+        "description": "This is a e-commerce site which sells antiques, porcelain, and furniture",
+        "contributors": [
+            "Alexius Savage",
+            "Elenilson Hernandez",
+            "John Cecil",
+            "Robert Gomez"
+        ],
+        "url": "https://github.com/Asavage650/Opulent-Odds"
+    }
+]
